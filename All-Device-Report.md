@@ -50,9 +50,9 @@ Internal build ID: 1f4483e7-229d-4852-a444-100e54e80ca1
 Image format version: 3.0
 Image optimization: Strata-4GB
 
-Uptime: 1 week, 0 days, 19 hours and 56 minutes
+Uptime: 1 week, 0 days, 20 hours and 15 minutes
 Total memory: 3982784 kB
-Free memory: 2277704 kB
+Free memory: 2275464 kB
 ```
 # leaf-3a Commands Output
 
@@ -108,9 +108,9 @@ Internal build version: 4.26.2F-23563874.4262F
 Internal build ID: fa3a49f3-6093-4925-ad11-55fe15eac5ae
 Image format version: 1.0
 
-Uptime: 55 minutes
+Uptime: 1 hour and 14 minutes
 Total memory: 2006804 kB
-Free memory: 983248 kB
+Free memory: 987848 kB
 ```
 # leaf-3b Commands Output
 
@@ -166,9 +166,9 @@ Internal build version: 4.26.2F-23563874.4262F
 Internal build ID: fa3a49f3-6093-4925-ad11-55fe15eac5ae
 Image format version: 1.0
 
-Uptime: 55 minutes
+Uptime: 1 hour and 14 minutes
 Total memory: 2006804 kB
-Free memory: 986336 kB
+Free memory: 990520 kB
 ```
 # outside Commands Output
 
@@ -224,7 +224,7 @@ Internal build version: 4.26.2F-23563874.4262F
 Internal build ID: fa3a49f3-6093-4925-ad11-55fe15eac5ae
 Image format version: 1.0
 
-Uptime: 55 minutes
+Uptime: 1 hour and 14 minutes
 Total memory: 2006804 kB
-Free memory: 1114984 kB
+Free memory: 1113956 kB
 ```

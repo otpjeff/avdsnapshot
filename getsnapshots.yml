@@ -11,4 +11,4 @@
         name: eos_snapshot
     - name: Assemble single report
       shell:
-        cmd: 'cat snapshots/*/*.md > myreport.md'
+        cmd: 'cat snapshots/*/*.md > All-Device-Report.md'
