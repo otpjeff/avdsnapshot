@@ -1,0 +1,2 @@
+Hostname: outside
+FQDN:     outside
