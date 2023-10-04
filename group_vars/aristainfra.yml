@@ -14,5 +14,4 @@
 
 commands_list:
   - show hostname
-  - show version
   - show management api http-commands
