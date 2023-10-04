@@ -1,6 +1,6 @@
 ---
 - name: Collect Commands
-  hosts: otpjefflab
+  hosts: aristainfra
   connection: local
   gather_facts: false
   collections:

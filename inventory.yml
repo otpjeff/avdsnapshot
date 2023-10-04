@@ -6,7 +6,7 @@ ansible_network_os = arista.eos.eos
 ansible_become = yes
 ansible_become_method = enable
 
-[otpjefflab]
+[aristainfra]
 arista720.otpjeff.local ansible_host=192.168.1.254
 outside ansible_host=192.168.1.40
 leaf-3a ansible_host=192.168.1.47
