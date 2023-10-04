@@ -9,7 +9,6 @@
     - name: Collect commands
       ansible.builtin.import_role:
         name: eos_snapshot
-    - name: Assemble report
-      ansible.builtin.assemble:
-        src: ./snapshots/.
-        dest: ./snapshots/myreport.md
+    - name: Assemble single report
+      shell:
+        cmd: 'cat snapshots/*/*.md > myreport.md'

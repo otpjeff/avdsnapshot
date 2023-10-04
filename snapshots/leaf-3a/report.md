@@ -52,7 +52,7 @@ Internal build version: 4.26.2F-23563874.4262F
 Internal build ID: fa3a49f3-6093-4925-ad11-55fe15eac5ae
 Image format version: 1.0
 
-Uptime: 5 minutes
+Uptime: 55 minutes
 Total memory: 2006804 kB
-Free memory: 984632 kB
+Free memory: 983248 kB
 ```
